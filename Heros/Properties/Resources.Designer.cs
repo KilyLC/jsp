@@ -93,6 +93,16 @@ namespace HerosNamespace.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap chambre {
+            get {
+                object obj = ResourceManager.GetObject("chambre", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cipher_dark {
             get {
                 object obj = ResourceManager.GetObject("cipher_dark", resourceCulture);
@@ -143,6 +153,16 @@ namespace HerosNamespace.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap house {
+            get {
+                object obj = ResourceManager.GetObject("house", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap isabelle {
             get {
                 object obj = ResourceManager.GetObject("isabelle", resourceCulture);
@@ -176,6 +196,16 @@ namespace HerosNamespace.Properties {
         internal static System.Drawing.Bitmap lord_tachanka {
             get {
                 object obj = ResourceManager.GetObject("lord_tachanka", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap luigi_circuit {
+            get {
+                object obj = ResourceManager.GetObject("luigi_circuit", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

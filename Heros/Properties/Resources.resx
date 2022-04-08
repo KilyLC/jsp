@@ -118,82 +118,91 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="zelda_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\zelda_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="nu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\nu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mario" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="zora" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\zora.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="glock17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\glock17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pikachu_rey_misterio" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pikachu_rey_misterio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="m4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\m4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pikachu_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pikachu_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="desert-eagle-50ae" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\desert-eagle-50ae.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mario_dr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mario_dr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pikachu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pikachu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="five-seven" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\five-seven.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tunique_du_prodige" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tunique_du_prodige.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="katana" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\katana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mario_mariage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mario_mariage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="zelda_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\zelda_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ak74u" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ak74u.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ak47" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ak47.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="batte_cloutee" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\batte_cloutee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cipher_dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cipher_dark.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cypher" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cypher.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lord_tachanka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lord_tachanka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="isabelle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\isabelle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="isabelle2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\isabelle2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="zelda_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zelda_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lord_tachanka" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lord_tachanka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pikachu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pikachu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zora.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="luigi_circuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\luigi_circuit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ak47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ak47.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cipher_dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cipher_dark.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pikachu_cap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pikachu_cap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mario_mariage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mario_mariage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cypher" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cypher.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="five-seven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\five-seven.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="batte_cloutee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\batte_cloutee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="tachanka" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tachanka.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="katana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\katana.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ak74u" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ak74u.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="desert-eagle-50ae" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\desert-eagle-50ae.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="glock17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\glock17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zelda_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zelda_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mario_dr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mario_dr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tachanka2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tachanka2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tunique_du_prodige" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tunique_du_prodige.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="house" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\house.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="isabelle2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\isabelle2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pikachu_rey_misterio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pikachu_rey_misterio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chambre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chambre.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

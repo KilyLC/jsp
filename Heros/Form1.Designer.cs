@@ -68,206 +68,252 @@
             // lblNom1
             // 
             this.lblNom1.AutoSize = true;
+            this.lblNom1.BackColor = System.Drawing.Color.Transparent;
+            this.lblNom1.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNom1.Location = new System.Drawing.Point(227, 287);
             this.lblNom1.Name = "lblNom1";
-            this.lblNom1.Size = new System.Drawing.Size(38, 13);
+            this.lblNom1.Size = new System.Drawing.Size(56, 17);
             this.lblNom1.TabIndex = 2;
             this.lblNom1.Text = "Nom : ";
             // 
             // lblNomTenue1
             // 
             this.lblNomTenue1.AutoSize = true;
+            this.lblNomTenue1.BackColor = System.Drawing.Color.Transparent;
+            this.lblNomTenue1.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNomTenue1.Location = new System.Drawing.Point(227, 316);
             this.lblNomTenue1.Name = "lblNomTenue1";
-            this.lblNomTenue1.Size = new System.Drawing.Size(68, 13);
+            this.lblNomTenue1.Size = new System.Drawing.Size(104, 17);
             this.lblNomTenue1.TabIndex = 5;
             this.lblNomTenue1.Text = "Nom tenue : ";
             // 
             // lblNiveauVie1
             // 
             this.lblNiveauVie1.AutoSize = true;
+            this.lblNiveauVie1.BackColor = System.Drawing.Color.Transparent;
+            this.lblNiveauVie1.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNiveauVie1.Location = new System.Drawing.Point(227, 346);
             this.lblNiveauVie1.Name = "lblNiveauVie1";
-            this.lblNiveauVie1.Size = new System.Drawing.Size(67, 13);
+            this.lblNiveauVie1.Size = new System.Drawing.Size(112, 17);
             this.lblNiveauVie1.TabIndex = 6;
             this.lblNiveauVie1.Text = "Niveau vie : ";
             // 
             // lblAttaque1
             // 
             this.lblAttaque1.AutoSize = true;
+            this.lblAttaque1.BackColor = System.Drawing.Color.Transparent;
+            this.lblAttaque1.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAttaque1.Location = new System.Drawing.Point(227, 375);
             this.lblAttaque1.Name = "lblAttaque1";
-            this.lblAttaque1.Size = new System.Drawing.Size(53, 13);
+            this.lblAttaque1.Size = new System.Drawing.Size(88, 17);
             this.lblAttaque1.TabIndex = 7;
             this.lblAttaque1.Text = "Attaque : ";
             // 
             // lblVitesse1
             // 
             this.lblVitesse1.AutoSize = true;
+            this.lblVitesse1.BackColor = System.Drawing.Color.Transparent;
+            this.lblVitesse1.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblVitesse1.Location = new System.Drawing.Point(227, 405);
             this.lblVitesse1.Name = "lblVitesse1";
-            this.lblVitesse1.Size = new System.Drawing.Size(50, 13);
+            this.lblVitesse1.Size = new System.Drawing.Size(88, 17);
             this.lblVitesse1.TabIndex = 8;
             this.lblVitesse1.Text = "Vitesse : ";
             // 
             // lblVitesse2
             // 
             this.lblVitesse2.AutoSize = true;
+            this.lblVitesse2.BackColor = System.Drawing.Color.Transparent;
+            this.lblVitesse2.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblVitesse2.Location = new System.Drawing.Point(686, 405);
             this.lblVitesse2.Name = "lblVitesse2";
-            this.lblVitesse2.Size = new System.Drawing.Size(50, 13);
+            this.lblVitesse2.Size = new System.Drawing.Size(88, 17);
             this.lblVitesse2.TabIndex = 13;
             this.lblVitesse2.Text = "Vitesse : ";
             // 
             // lblAttaque2
             // 
             this.lblAttaque2.AutoSize = true;
+            this.lblAttaque2.BackColor = System.Drawing.Color.Transparent;
+            this.lblAttaque2.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAttaque2.Location = new System.Drawing.Point(686, 375);
             this.lblAttaque2.Name = "lblAttaque2";
-            this.lblAttaque2.Size = new System.Drawing.Size(53, 13);
+            this.lblAttaque2.Size = new System.Drawing.Size(88, 17);
             this.lblAttaque2.TabIndex = 12;
             this.lblAttaque2.Text = "Attaque : ";
             // 
             // lblNiveauVie2
             // 
             this.lblNiveauVie2.AutoSize = true;
+            this.lblNiveauVie2.BackColor = System.Drawing.Color.Transparent;
+            this.lblNiveauVie2.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNiveauVie2.Location = new System.Drawing.Point(686, 346);
             this.lblNiveauVie2.Name = "lblNiveauVie2";
-            this.lblNiveauVie2.Size = new System.Drawing.Size(67, 13);
+            this.lblNiveauVie2.Size = new System.Drawing.Size(112, 17);
             this.lblNiveauVie2.TabIndex = 11;
             this.lblNiveauVie2.Text = "Niveau vie : ";
             // 
             // lblNomTenue2
             // 
             this.lblNomTenue2.AutoSize = true;
+            this.lblNomTenue2.BackColor = System.Drawing.Color.Transparent;
+            this.lblNomTenue2.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNomTenue2.Location = new System.Drawing.Point(686, 316);
             this.lblNomTenue2.Name = "lblNomTenue2";
-            this.lblNomTenue2.Size = new System.Drawing.Size(68, 13);
+            this.lblNomTenue2.Size = new System.Drawing.Size(104, 17);
             this.lblNomTenue2.TabIndex = 10;
             this.lblNomTenue2.Text = "Nom tenue : ";
             // 
             // lblNom2
             // 
             this.lblNom2.AutoSize = true;
+            this.lblNom2.BackColor = System.Drawing.Color.Transparent;
+            this.lblNom2.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNom2.Location = new System.Drawing.Point(686, 287);
             this.lblNom2.Name = "lblNom2";
-            this.lblNom2.Size = new System.Drawing.Size(38, 13);
+            this.lblNom2.Size = new System.Drawing.Size(56, 17);
             this.lblNom2.TabIndex = 9;
             this.lblNom2.Text = "Nom : ";
             // 
             // lblVitesse3
             // 
             this.lblVitesse3.AutoSize = true;
+            this.lblVitesse3.BackColor = System.Drawing.Color.Transparent;
+            this.lblVitesse3.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblVitesse3.Location = new System.Drawing.Point(1122, 405);
             this.lblVitesse3.Name = "lblVitesse3";
-            this.lblVitesse3.Size = new System.Drawing.Size(50, 13);
+            this.lblVitesse3.Size = new System.Drawing.Size(88, 17);
             this.lblVitesse3.TabIndex = 18;
             this.lblVitesse3.Text = "Vitesse : ";
             // 
             // lblAttaque3
             // 
             this.lblAttaque3.AutoSize = true;
+            this.lblAttaque3.BackColor = System.Drawing.Color.Transparent;
+            this.lblAttaque3.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAttaque3.Location = new System.Drawing.Point(1122, 375);
             this.lblAttaque3.Name = "lblAttaque3";
-            this.lblAttaque3.Size = new System.Drawing.Size(53, 13);
+            this.lblAttaque3.Size = new System.Drawing.Size(88, 17);
             this.lblAttaque3.TabIndex = 17;
             this.lblAttaque3.Text = "Attaque : ";
             // 
             // lblNiveauVie3
             // 
             this.lblNiveauVie3.AutoSize = true;
+            this.lblNiveauVie3.BackColor = System.Drawing.Color.Transparent;
+            this.lblNiveauVie3.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNiveauVie3.Location = new System.Drawing.Point(1122, 346);
             this.lblNiveauVie3.Name = "lblNiveauVie3";
-            this.lblNiveauVie3.Size = new System.Drawing.Size(67, 13);
+            this.lblNiveauVie3.Size = new System.Drawing.Size(112, 17);
             this.lblNiveauVie3.TabIndex = 16;
             this.lblNiveauVie3.Text = "Niveau vie : ";
             // 
             // lblNomTenue3
             // 
             this.lblNomTenue3.AutoSize = true;
+            this.lblNomTenue3.BackColor = System.Drawing.Color.Transparent;
+            this.lblNomTenue3.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNomTenue3.Location = new System.Drawing.Point(1122, 316);
             this.lblNomTenue3.Name = "lblNomTenue3";
-            this.lblNomTenue3.Size = new System.Drawing.Size(68, 13);
+            this.lblNomTenue3.Size = new System.Drawing.Size(104, 17);
             this.lblNomTenue3.TabIndex = 15;
             this.lblNomTenue3.Text = "Nom tenue : ";
             // 
             // lblNom3
             // 
             this.lblNom3.AutoSize = true;
+            this.lblNom3.BackColor = System.Drawing.Color.Transparent;
+            this.lblNom3.Font = new System.Drawing.Font("Pixel Operator Mono HB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNom3.Location = new System.Drawing.Point(1122, 287);
             this.lblNom3.Name = "lblNom3";
-            this.lblNom3.Size = new System.Drawing.Size(38, 13);
+            this.lblNom3.Size = new System.Drawing.Size(56, 17);
             this.lblNom3.TabIndex = 14;
             this.lblNom3.Text = "Nom : ";
             // 
             // lblNomCompagnie
             // 
             this.lblNomCompagnie.AutoSize = true;
-            this.lblNomCompagnie.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNomCompagnie.BackColor = System.Drawing.Color.Transparent;
+            this.lblNomCompagnie.Font = new System.Drawing.Font("Papyrus", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNomCompagnie.Location = new System.Drawing.Point(27, 30);
             this.lblNomCompagnie.Name = "lblNomCompagnie";
-            this.lblNomCompagnie.Size = new System.Drawing.Size(744, 108);
+            this.lblNomCompagnie.Size = new System.Drawing.Size(625, 100);
             this.lblNomCompagnie.TabIndex = 19;
             this.lblNomCompagnie.Text = "<COMPAGNIE>";
             // 
             // btnArme1
             // 
+            this.btnArme1.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnArme1.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnArme1.ForeColor = System.Drawing.SystemColors.Control;
             this.btnArme1.Location = new System.Drawing.Point(181, 221);
             this.btnArme1.Name = "btnArme1";
-            this.btnArme1.Size = new System.Drawing.Size(106, 23);
+            this.btnArme1.Size = new System.Drawing.Size(120, 23);
             this.btnArme1.TabIndex = 22;
             this.btnArme1.Text = "Changer d\'arme";
-            this.btnArme1.UseVisualStyleBackColor = true;
+            this.btnArme1.UseVisualStyleBackColor = false;
             this.btnArme1.Click += new System.EventHandler(this.btnArme1_Click);
             // 
             // btnArme2
             // 
+            this.btnArme2.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnArme2.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnArme2.ForeColor = System.Drawing.SystemColors.Control;
             this.btnArme2.Location = new System.Drawing.Point(633, 221);
             this.btnArme2.Name = "btnArme2";
-            this.btnArme2.Size = new System.Drawing.Size(106, 23);
+            this.btnArme2.Size = new System.Drawing.Size(120, 23);
             this.btnArme2.TabIndex = 23;
             this.btnArme2.Text = "Changer d\'arme";
-            this.btnArme2.UseVisualStyleBackColor = true;
+            this.btnArme2.UseVisualStyleBackColor = false;
             this.btnArme2.Click += new System.EventHandler(this.btnArme2_Click);
             // 
             // btnArme3
             // 
+            this.btnArme3.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnArme3.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnArme3.ForeColor = System.Drawing.SystemColors.Control;
             this.btnArme3.Location = new System.Drawing.Point(1056, 221);
             this.btnArme3.Name = "btnArme3";
-            this.btnArme3.Size = new System.Drawing.Size(106, 23);
+            this.btnArme3.Size = new System.Drawing.Size(120, 23);
             this.btnArme3.TabIndex = 24;
             this.btnArme3.Text = "Changer d\'arme";
-            this.btnArme3.UseVisualStyleBackColor = true;
+            this.btnArme3.UseVisualStyleBackColor = false;
             this.btnArme3.Click += new System.EventHandler(this.btnArme3_Click);
             // 
             // btnTenue1
             // 
+            this.btnTenue1.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnTenue1.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTenue1.Location = new System.Drawing.Point(230, 664);
             this.btnTenue1.Name = "btnTenue1";
             this.btnTenue1.Size = new System.Drawing.Size(121, 23);
             this.btnTenue1.TabIndex = 25;
             this.btnTenue1.Text = "Changer tenue";
-            this.btnTenue1.UseVisualStyleBackColor = true;
+            this.btnTenue1.UseVisualStyleBackColor = false;
             this.btnTenue1.Click += new System.EventHandler(this.btnTenue1_Click);
             // 
             // btnTenue2
             // 
+            this.btnTenue2.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnTenue2.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTenue2.Location = new System.Drawing.Point(674, 664);
             this.btnTenue2.Name = "btnTenue2";
             this.btnTenue2.Size = new System.Drawing.Size(121, 23);
             this.btnTenue2.TabIndex = 26;
             this.btnTenue2.Text = "Changer tenue";
-            this.btnTenue2.UseVisualStyleBackColor = true;
+            this.btnTenue2.UseVisualStyleBackColor = false;
             this.btnTenue2.Click += new System.EventHandler(this.btnTenue2_Click);
             // 
             // btnTenue3
             // 
+            this.btnTenue3.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnTenue3.Font = new System.Drawing.Font("Perpetua Titling MT", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTenue3.Location = new System.Drawing.Point(1105, 664);
             this.btnTenue3.Name = "btnTenue3";
             this.btnTenue3.Size = new System.Drawing.Size(121, 23);
             this.btnTenue3.TabIndex = 27;
             this.btnTenue3.Text = "Changer tenue";
-            this.btnTenue3.UseVisualStyleBackColor = true;
+            this.btnTenue3.UseVisualStyleBackColor = false;
             this.btnTenue3.Click += new System.EventHandler(this.btnTenue3_Click);
             // 
             // btnCompagnie
@@ -282,6 +328,7 @@
             // 
             // pibArme3
             // 
+            this.pibArme3.BackColor = System.Drawing.Color.Transparent;
             this.pibArme3.Location = new System.Drawing.Point(950, 181);
             this.pibArme3.Name = "pibArme3";
             this.pibArme3.Size = new System.Drawing.Size(100, 100);
@@ -291,6 +338,7 @@
             // 
             // pibArme2
             // 
+            this.pibArme2.BackColor = System.Drawing.Color.Transparent;
             this.pibArme2.Location = new System.Drawing.Point(522, 181);
             this.pibArme2.Name = "pibArme2";
             this.pibArme2.Size = new System.Drawing.Size(100, 100);
@@ -300,6 +348,8 @@
             // 
             // pibPersonnage3
             // 
+            this.pibPersonnage3.BackColor = System.Drawing.Color.Transparent;
+            this.pibPersonnage3.Image = global::HerosNamespace.Properties.Resources.chambre;
             this.pibPersonnage3.Location = new System.Drawing.Point(899, 287);
             this.pibPersonnage3.Name = "pibPersonnage3";
             this.pibPersonnage3.Size = new System.Drawing.Size(200, 400);
@@ -309,6 +359,7 @@
             // 
             // pibPersonnage2
             // 
+            this.pibPersonnage2.BackColor = System.Drawing.Color.Transparent;
             this.pibPersonnage2.Image = global::HerosNamespace.Properties.Resources.zelda_1;
             this.pibPersonnage2.Location = new System.Drawing.Point(468, 287);
             this.pibPersonnage2.Name = "pibPersonnage2";
@@ -319,6 +370,7 @@
             // 
             // pibArme1
             // 
+            this.pibArme1.BackColor = System.Drawing.Color.Transparent;
             this.pibArme1.Location = new System.Drawing.Point(75, 181);
             this.pibArme1.Name = "pibArme1";
             this.pibArme1.Size = new System.Drawing.Size(100, 100);
@@ -328,6 +380,7 @@
             // 
             // pibPersonnage1
             // 
+            this.pibPersonnage1.BackColor = System.Drawing.Color.Transparent;
             this.pibPersonnage1.Image = global::HerosNamespace.Properties.Resources.mario_dr;
             this.pibPersonnage1.Location = new System.Drawing.Point(21, 287);
             this.pibPersonnage1.Name = "pibPersonnage1";
@@ -341,7 +394,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1245, 709);
+            this.ClientSize = new System.Drawing.Size(1411, 709);
             this.Controls.Add(this.btnCompagnie);
             this.Controls.Add(this.btnTenue3);
             this.Controls.Add(this.btnTenue2);
@@ -374,6 +427,7 @@
             this.MaximizeBox = false;
             this.Name = "frmMain";
             this.Text = "Mes heros";
+            this.TransparencyKey = System.Drawing.Color.Yellow;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMain_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pibArme3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibArme2)).EndInit();

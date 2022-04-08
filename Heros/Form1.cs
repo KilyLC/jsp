@@ -31,6 +31,7 @@ namespace HerosNamespace
             compagnies = new List<Compagnie>();
 
             le_trio_denfer = new Compagnie("Le trio d'enfer");
+            le_trio_denfer.DefinirArrierePlan(Properties.Resources.luigi_circuit);
             compagnie_courante = le_trio_denfer;
 
             // Armes
@@ -85,6 +86,8 @@ namespace HerosNamespace
             Heros tachanka = new Heros("Tachanka", tenues_tachanka, tenues_tachanka[0], ak74u, null, 100, 100, 1, compagnie2);
             compagnie2.AjouterHeros(tachanka);
 
+            compagnie2.DefinirArrierePlan(Properties.Resources.chambre);
+
             compagnies.Add(compagnie2);
         }
 
@@ -93,6 +96,9 @@ namespace HerosNamespace
         {
             // Afficher nom compagnie
             this.lblNomCompagnie.Text = c.Nom;
+
+            // Arriere plan image
+            this.BackgroundImage = c.ArrierePlan;
             
             if (c.Heros.Count >= 1)
             {
