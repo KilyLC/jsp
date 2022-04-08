@@ -1,0 +1,10 @@
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\bin\Debug\Heros.exe.config
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\bin\Debug\Heros.exe
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\bin\Debug\Heros.pdb
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\Heros.csprojAssemblyReference.cache
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\HerosNamespace.frmMain.resources
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\HerosNamespace.Properties.Resources.resources
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\Heros.csproj.GenerateResource.cache
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\Heros.csproj.CoreCompileInputs.cache
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\Heros.exe
+C:\Users\KILIANYLCSSC\source\repos\Heros\Heros\obj\Debug\Heros.pdb
